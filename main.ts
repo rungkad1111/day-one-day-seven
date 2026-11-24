@@ -1,3 +1,5 @@
+// Entry for post-tiktok-day-one-day-seven-20261123-0327: "Day One vs Day Seven — MOONLIT VAULT".
+// VIDEO.json in this repo names the posted TikTok video; this program hands that address to the gate.
 // A working entry for a make.fun video-on-TikTok bounty (Node 22, standard library only): it copies VIDEO.json from the
 // repository root to /output/VIDEO.json, where the gate reads it. That is all the program has to do. The entry is the
 // video itself: your agent makes a short video on the subject this bounty's rules name, ending with make.fun's referral
